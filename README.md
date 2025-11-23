@@ -19,14 +19,6 @@ Experienced in IT support, systems administration, and full-stack web developmen
 </p>
 
 ---
-
-<-- <b>📂 Featured Projects:</b>  
-- 🌐 Affordable landing pages & IT support services for local businesses  
-- 🍴 Restaurant App MVP – digital ordering solution for cafés & restaurants  
-- 🖥️ Broadcast & Education IT Support – workflow optimization & custom tools  
--->
----
-
 <b>🎯 Current Goals:</b>  
 - Grow freelance portfolio with affordable IT & web solutions  
 - Build clear pricing tiers (pro bono, discounted, professional)  
@@ -55,4 +47,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<b>📂 Featured Projects:</b>  
+- 🌐 Affordable landing pages & IT support services for local businesses  
+- 🍴 Restaurant App MVP – digital ordering solution for cafés & restaurants  
+- 🖥️ Broadcast & Education IT Support – workflow optimization & custom tools  
+
 -->
