@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Jomar</h1>
+<h1>Jomar Cotejo</h1>
 <code>
 IT Support Specialist & Web Developer from Wollongong, Australia.  
 Passionate about building scalable digital solutions for small businesses and communities.  
@@ -20,11 +20,11 @@ Experienced in IT support, systems administration, and full-stack web developmen
 
 ---
 
-<b>📂 Featured Projects:</b>  
+<-- <b>📂 Featured Projects:</b>  
 - 🌐 Affordable landing pages & IT support services for local businesses  
 - 🍴 Restaurant App MVP – digital ordering solution for cafés & restaurants  
 - 🖥️ Broadcast & Education IT Support – workflow optimization & custom tools  
-
+-->
 ---
 
 <b>🎯 Current Goals:</b>  
