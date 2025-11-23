@@ -18,20 +18,6 @@ Experienced in IT support, systems administration, and full-stack web developmen
     </a>
 </p>
 
----
-<b>🎯 Current Goals:</b>  
-- Grow freelance portfolio with affordable IT & web solutions  
-- Build clear pricing tiers (pro bono, discounted, professional)  
-- Secure a Junior Software Developer role  
-
----
-
-<b>📫 Connect with Me:</b>  
-<a href="https://linkedin.com/in/yourprofile"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="mailto:youremail@example.com"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-<a href="https://yourwebsite.com"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-</div>
-
 
 <!--
 **meikux/meikux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
