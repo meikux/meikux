@@ -22,7 +22,6 @@ Experienced in IT support, systems administration, and full-stack web developmen
 <b>🎯 Current Goals:</b>  
 - Grow freelance portfolio with affordable IT & web solutions  
 - Build clear pricing tiers (pro bono, discounted, professional)  
-- Pilot restaurant app MVP with local businesses  
 - Secure a Junior Software Developer role  
 
 ---
