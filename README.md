@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Jomar Cotejo</h1>
+<!-- <h1>Jomar Cotejo</h1> -->
 <code>
 IT Support Specialist & Web Developer from Wollongong, Australia.  
 Passionate about building scalable digital solutions for small businesses and communities.  
